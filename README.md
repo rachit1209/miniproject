@@ -5,4 +5,6 @@
 [final exp 4.ipynb](https://github.com/user-attachments/files/23373938/final.exp.4.ipynb)
 [final exp 5.ipynb](https://github.com/user-attachments/files/23373936/final.exp.5.ipynb)
 [Untitled0.ipynb](https://github.com/user-attachments/files/23373935/Untitled0.ipynb)
-[upload dataset.ipynb](https://github.com/user-attachments/files/23373934/upload.dataset.ipynb)
+[upload dataset.ipynb](https://github.com/user-attachments/files/23373934/upload.dataset.ipynb)[All exp .ipynb](https://github.com/user-attachments/files/23374924/All.exp.ipynb)
+[All exp .ipynb](https://github.com/user-attachments/files/23374918/All.exp.ipynb)
+
