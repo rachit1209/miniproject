@@ -1,2 +1,8 @@
-# miniproject
-images
+[final 8 apriori .ipynb](https://github.com/user-attachments/files/23373944/final.8.apriori.ipynb)
+[final 7 mediod_mean .ipynb](https://github.com/user-attachments/files/23373943/final.7.mediod_mean.ipynb)
+[final exp 3.ipynb](https://github.com/user-attachments/files/23373942/final.exp.3.ipynb)
+[final exp 3 (1).ipynb](https://github.com/user-attachments/files/23373940/final.exp.3.1.ipynb)
+[final exp 4.ipynb](https://github.com/user-attachments/files/23373938/final.exp.4.ipynb)
+[final exp 5.ipynb](https://github.com/user-attachments/files/23373936/final.exp.5.ipynb)
+[Untitled0.ipynb](https://github.com/user-attachments/files/23373935/Untitled0.ipynb)
+[upload dataset.ipynb](https://github.com/user-attachments/files/23373934/upload.dataset.ipynb)
